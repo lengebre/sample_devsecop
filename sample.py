@@ -12,6 +12,8 @@ def main():
     y = 6
     for i in range(x):
         print(i)
+        print(x + y)
+
 
 if __name__ == "__main__":
     main()
